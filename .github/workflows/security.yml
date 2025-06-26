@@ -1,4 +1,6 @@
 name: Vulnerability Check
+permissions:
+  contents: read
 
 on:
   push:
